@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "groceryAppExpo",
+    "slug": "groceryAppExpo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/cartLogo-final.png",
+    "splash": {
+      "image": "./assets/cartLogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourcompany.yourappname",
+      "versionCode": 1
+    
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

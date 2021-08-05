@@ -1,0 +1,1 @@
+{"ast":null,"code":"global.ipAddress = \"http://192.168.18.3\";","map":{"version":3,"sources":["/home/amuizz/Desktop/groceryApp/groceryApp/client/global.js"],"names":["global","ipAddress"],"mappings":"AAAAA,MAAM,CAACC,SAAP,GAAmB,qBAAnB","sourcesContent":["global.ipAddress = \"http://192.168.18.3\";"]},"metadata":{},"sourceType":"script"}

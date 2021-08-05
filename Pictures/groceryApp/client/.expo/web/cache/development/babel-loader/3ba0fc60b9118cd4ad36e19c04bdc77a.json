@@ -1,0 +1,1 @@
+{"ast":null,"code":"global.ipAddress = \"https://stark-dusk-55835.herokuapp.com/\";","map":{"version":3,"sources":["C:/Users/ammar/Pictures/groceryApp/client/global.js"],"names":["global","ipAddress"],"mappings":"AAAAA,MAAM,CAACC,SAAP,GAAmB,yCAAnB","sourcesContent":["global.ipAddress = \"https://stark-dusk-55835.herokuapp.com/\";\n"]},"metadata":{},"sourceType":"script"}
